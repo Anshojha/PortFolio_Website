@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Radio+Canada&family=Source+Sans+Pro:ital,wght@0,300;1,200&display=swap');
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+h1{
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    color: #66BFBF;
+}
+.passionate{
+    font-size: 2rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+}
+
+div{
+    
+}
+
+.top-container{
+   position: relative;
+   padding-top: 100px;
+   background-color: #E4F9F5;
+   
+} 
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+#comp2{
+    border-radius: 0%;
+}
+.dev{
+    text-decoration: underline;
+}
+.middle-container{
+ background-color: white;
+}
+.botton-container{
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+hr{
+    background-color: white;
+    border-style:  none;
+    border-top-style: dotted ;
+    border-color: rgb(219, 216, 216);
+    border-width: 5px;
+    /* height: 2px; */
+    width: 5%;
+}
