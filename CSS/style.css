@@ -147,3 +147,17 @@ hr{
       font-size: 0.75rem;
       padding: 20px 0;
   }
+
+  @media (max-width:650px) {
+
+    body{
+        width: 100vh;
+    }
+    .intro{
+        width: 100%;
+    }
+
+    #my-img{
+        width: 23%;
+    }
+  }
